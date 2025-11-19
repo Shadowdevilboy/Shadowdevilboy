@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ... Cybersecurity
 - 💞️ I’m looking to collaborate on ... Coding
 - 📫 How to reach me ... 
-- 😄 Pronouns: ...Dev
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ...Tej
+  
 
 <!---
 Shadowdevilboy/Shadowdevilboy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
