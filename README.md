@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shadowdevilboy
+- 👋 Hi, I’m @TejaAdina
 - 👀 I’m interested in ... Ethical hacking
 - 🌱 I’m currently learning ... Cybersecurity
 - 💞️ I’m looking to collaborate on ... Coding
